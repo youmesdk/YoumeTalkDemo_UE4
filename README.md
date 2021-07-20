@@ -14,7 +14,7 @@
 
   1. 生成文件结构，并编译工程。
 
-     ![image-20210720110930639](Images\image_1.png)
+     ![image_1](Images\image_1.png)
 
      
 
