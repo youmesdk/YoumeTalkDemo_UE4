@@ -1,7 +1,8 @@
 ﻿// Copyright © 2014-2021 YouMe. All Rights Reserved.
 
 #include "YouMeTalkAPI.h"
-#include "YouMeTalk/YouMeTalkLibrary/include/IYouMeVoiceEngine.h"
+#include "YouMeConstDefine.h"
+#include "IYouMeVoiceEngine.h"
 #include "YouMeTalkEngineCallback.h"
 
 void UYouMeTalkAPI::BindObserver(TScriptInterface<IYouMeTalkObserver> Observer)

@@ -3,8 +3,8 @@
 
 #include "CoreMinimal.h"
 #include "UObject/Interface.h"
-#include "YouMeTalk/YouMeTalkLibrary/include/IYouMeEventCallback.h"
-#include "YouMeTalk/YouMeTalkLibrary/include/YouMeConstDefine.h"
+#include "IYouMeEventCallback.h"
+#include "YouMeConstDefine.h"
 #include "YouMeTalkObserver.h"
 
 class FYouMeTalkCallback : public IYouMeEventCallback, public IRestApiCallback, public IYouMeMemberChangeCallback, public IYouMePcmCallback {

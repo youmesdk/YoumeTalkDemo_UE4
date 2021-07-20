@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "UObject/Interface.h"
-#include "YouMeTalk/YouMeTalkLibrary/include/IYouMeEventCallback.h"
+#include "IYouMeEventCallback.h"
 #include "YouMeTalkDefine.h"
 #include "YouMeTalkObserver.generated.h"
 

@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "UObject/ObjectMacros.h"
-#include "YouMeTalk/YouMeTalkLibrary/include/YouMeConstDefine.h"
+#include "YouMeConstDefine.h"
 #include "vector"
 #include "string"
 using namespace std;
